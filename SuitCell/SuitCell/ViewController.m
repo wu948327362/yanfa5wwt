@@ -18,13 +18,14 @@
     [super viewDidLoad];
     [self run];
     // Do any additional setup after loading the view, typically from a nib.
+    
+    
 }
 
-- (void)run
-{
-
-
+- (void)run{
+    NSLog(@"======");
 }
+
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
